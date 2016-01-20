@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"time"
 
-	"code.google.com/p/go-charset/charset"
-	_ "code.google.com/p/go-charset/data"
+	"github.com/plar/go-charset/charset"
+	_ "github.com/plar/go-charset/data"
 )
 
 const (
